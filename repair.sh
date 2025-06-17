@@ -30,7 +30,7 @@ repairPanel(){
 }
 
 while true; do
-    read -p "Are you sure that you want to install the theme [y/n]? " yn
+    read -p "Are you sure you want to return the ptrodactyle panel to its original state? [y/n]? " yn
     case $yn in
         [Yy]* ) repairPanel; break;;
         [Nn]* ) exit;;
