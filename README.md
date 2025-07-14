@@ -14,6 +14,15 @@ A simple bash-based tool to repair your **Pterodactyl panel** automatically in o
 
 ---
 
+## 📁 Important Note
+
+> Before running the script, make sure you are in the correct directory:  
+```bash
+cd /var/www/pterodactyl
+```
+
+---
+
 ## 💻 Command Run
 
 ```bash
