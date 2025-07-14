@@ -25,9 +25,6 @@ cd /var/www/pterodactyl
 
 ## 💻 Command Run
 
-```bash
-curl -s https://raw.githubusercontent.com/salomonorg/restore-panel/main/repair.sh | bash
-```
 ```
 bash <(curl -s https://raw.githubusercontent.com/salomonorg/restore-panel/main/repair.sh)
 ```
